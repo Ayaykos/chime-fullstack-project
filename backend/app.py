@@ -110,7 +110,7 @@ def DeleteMenuItem():
 Gets all tags as an array from tags table
 
 returns {
-    items: [{
+    tags: [{
         _id: string,
         name: string
     }]
